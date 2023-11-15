@@ -4,8 +4,8 @@
 - I’m looking to collaborate on maths, physics, information theory
 - I am currently a researcher at a private think tank
 - email: k.c.okeife@gmail.com
-- big fan of the work of H. Larson, E. Larson and I. Vogt
-- influenced by Von Neumann, ZF, Borwein, Landauer, and Ramanujan
+- Big fan of the work of H. Larson, E. Larson and I. Vogt
+- Influenced by Von Neumann, ZF, Borwein, Landauer, and Ramanujan
 
 <!---
 axiology-kc/axiology-kc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
